@@ -1,7 +1,7 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: *Xitorch*
 
 *Write a paragraph describing what the software does and who its
 primary audience is.*
@@ -10,20 +10,20 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
+| Repository URL |  https://github.com/xitorch/xitorch  |
+| Main/documentation website |   https://xitorch.readthedocs.io/  |
+| Year project was started | Jan 30, 2020  |
+| Number of contributors in the past year | 2 |
+| Number of contributors in the lifetime of the project |  5 |
+| Number of distinct affiliations | >10 |
+| Where do development discussions take place? | Github requests  |
 | Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Typical number of commits per week? | 5 |
+| Typical commit size | 1-3 files |
+| How does the project accept contributions? |  pull requests   |
+| Does the project have an automated test suite? | no |
+| Does the project use continuous integration? | yes |
+| Are any legal/licensing steps required to contribute? | no |
 
 ### Install and run
 
