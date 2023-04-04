@@ -6,6 +6,10 @@ Please edit this file and push to your repository.
 *Write a paragraph describing what the software does and who its
 primary audience is.*
 
+Xitorch is an open-source software library for scientific computing in PyTorch. It provides a set of tools for solving mathematical problems, including optimization, root-finding, linear algebra, and differential equations. Xitorch is designed to be modular and extensible, allowing users to customize and extend its functionality to suit their needs.
+
+Xitorch is inteded for people who want to work with PyTorch and need to solve mathematical problems in their work.
+
 ### Stats
 
 | Description | Your answer |
